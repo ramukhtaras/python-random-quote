@@ -1,7 +1,5 @@
 import random
 
-
-
 def primary():
   #print("Keep it logically awesome.")
 
